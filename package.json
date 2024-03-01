@@ -1,0 +1,12 @@
+{
+  "name": "basic_js",
+  "version": "0.0.0",
+  "description": "I try to get knowledge about JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no start specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Almendras Santa Cruz",
+  "license": "ISC"
+}
